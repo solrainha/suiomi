@@ -176,22 +176,22 @@ header .header-table .table-row .table-cell .tc-description{line-height:150%;fon
 
 /* Footer */
 
-footer{position:absolute;left:0;bottom:0;right:0;overflow:hidden;color:#999;}
-footer #footer-row{display:grid;grid-template-areas:'1 1 1';grid-gap:5%;background:#f3f3f3;padding:20px 0 10px 13%;}
-footer #footer-row > div{padding:20px 0;overflow:hidden;position:relative;}
-footer .logo{height:50px;margin-bottom:15px;}
-footer .logo-img,footer .logo-name{display:inline-block;height:50px;float:left;line-height:50px;}
-footer .logo-img{width:50px;margin-right:15px;}
-footer .logo-name{font-size:1.3rem;color:#272638;}
-footer .footer-link a{display:block;margin-bottom:5%;}
-footer .footer-links-title,footer .support-title{color:#272638;font-size:1.3rem;margin-bottom:20px;}
-footer #support{max-width:350px;background:#bbb;height:70px;}
-footer .support-email{font-size:1.2rem;margin-bottom:10px;}
-footer .support-desc{max-width:350px;margin-bottom:20px;line-height:140%;}
-footer #support .support-container .sp-button a{background:#272638;padding:10px 25px;}
-footer #support .support-container .support-icon,footer #support .support-container .support-details,footer #support .support-container .sp-button{height:70px;}
-footer #support .support-container .support-icon,footer #support .support-container .support-icon img{width:40px;}
-footer #support .support-container .sp-button{top:85%;}
+footer#footer-wrapper{position:absolute;left:0;bottom:0;right:0;overflow:hidden;color:#999;}
+footer#footer-wrapper #footer-row{display:grid;grid-template-areas:'1 1 1';grid-gap:5%;background:#f3f3f3;padding:20px 0 10px 13%;}
+footer#footer-wrapper #footer-row > div{padding:20px 0;overflow:hidden;position:relative;}
+footer#footer-wrapper .logo{height:50px;margin-bottom:15px;}
+footer#footer-wrapper .logo-img,footer#footer-wrapper .logo-name{display:inline-block;height:50px;float:left;line-height:50px;}
+footer#footer-wrapper .logo-img{width:50px;margin-right:15px;}
+footer#footer-wrapper .logo-name{font-size:1.3rem;color:#272638;}
+footer#footer-wrapper .footer-link a{display:block;margin-bottom:5%;}
+footer#footer-wrapper .footer-links-title,footer#footer-wrapper .support-title{color:#272638;font-size:1.3rem;margin-bottom:20px;}
+footer#footer-wrapper #support{max-width:350px;background:#bbb;height:70px;}
+footer#footer-wrapper .support-email{font-size:1.2rem;margin-bottom:10px;}
+footer#footer-wrapper .support-desc{max-width:350px;margin-bottom:20px;line-height:140%;}
+footer#footer-wrapper #support .support-container .sp-button a{background:#272638;padding:10px 25px;}
+footer#footer-wrapper #support .support-container .support-icon,footer#footer-wrapper #support .support-container .support-details,footer#footer-wrapper #support .support-container .sp-button{height:70px;}
+footer#footer-wrapper #support .support-container .support-icon,footer#footer-wrapper #support .support-container .support-icon img{width:40px;}
+footer#footer-wrapper #support .support-container .sp-button{top:85%;}
 
 /* Pages */
 
