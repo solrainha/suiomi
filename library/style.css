@@ -369,7 +369,7 @@ main.pages .qa-pairs dl.active dt{font-weight:700;color:#FFD522;}
     .btt{display:none;}
     section#browse{width:70vw;margin-top:auto;}
     #author .author-img{float:none;margin-bottom:10px;}
-    #footer-wrapper #footer-row{grid-template-areas:0;padding:20px;}
+    #footer-wrapper #footer-row{display: block;padding:20px;}
     #footer-wrapper{position:relative;}
     #footer-wrapper #support{width:auto;}
     #footer-wrapper #support .support-container .sp-button a{padding:10px 20px;}
@@ -404,10 +404,10 @@ main.pages .qa-pairs dl.active dt{font-weight:700;color:#FFD522;}
     .btt{display:none;}
     section#browse{width:70vw;margin-top:auto;}
     #author .author-img{float:none;margin-bottom:20px;}
-    #footer-wrapper #footer-row{grid-template-areas:0;padding:20px;}
+    #footer-wrapper #footer-row{display: block;padding:20px;}
     #footer-wrapper{position:relative;}
     #footer-wrapper #support{width:auto;}
-    #footer-wrapper #support .support-container .sp-button a{padding:5px 10px;}
+    #footer-wrapper #support .support-container .sp-button a{padding:5px 10px}
     .support-details{margin:0 0 50px;}
     #articles-list{min-height:auto;}
     main.pages #c-cards,main.pages #faq{display:block;}
