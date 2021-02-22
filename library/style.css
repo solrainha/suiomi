@@ -294,7 +294,7 @@ main.pages .qa-pairs dl.active dt{font-weight:700;color:#FFD522;}
     nav ul#menu li{min-width:14vw;}
     header .header-title{bottom:250px;font-size:4rem;}
     header .header-intro{bottom:510px;font-size:1rem;}
-    header .header-table .table-row .table-cell{width:35%;}
+    header .header-table .table-row .table-cell{width:33%;}
     main{width:80vw;}
     aside#sidebar{width:30vw;}
     article#entry{width:45vw;}
@@ -354,7 +354,7 @@ main.pages .qa-pairs dl.active dt{font-weight:700;color:#FFD522;}
     header .header-intro{bottom:390px;letter-spacing:3px;font-size:.8rem;}
     header .header-title{font-size:3rem;bottom:180px;}
     header .header-table{bottom:3%;}
-    header .header-table .table-row .table-cell{width:41%;}
+    header .header-table .table-row .table-cell{width:38%;}
     header .header-table .table-row .table-cell .tc-description{font-size:.9rem;}
     header .header-table .table-row .table-cell .tc-title,header .header-table .table-row .table-cell .tc-title a{font-size:.8rem;}
     aside#sidebar{display:none;}
