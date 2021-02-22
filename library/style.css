@@ -34,6 +34,9 @@ article#entry a{color:inherit;border-bottom:1px solid #272638;}
 article#entry #ask-post.question{background:rgba(255,213,34,.1);padding:30px;}
 article#entry #ask-post.answer{padding:10px 20px;}
 
+a.read_more{width:130px;background:#FFD522;display:block;border:0!important;text-align:center;font-weight:700;color:#FFF!important;margin:0 auto;padding:7px 20px;transition:linear all .2s}
+a.read-more:hover{color:#ffbb22}
+
 /* Headings */
 
 article#entry h1,article#entry h1 a{color:inherit;text-transform:capitalize;font-weight:normal;position:relative;font-size:1.3rem;border:0;}
