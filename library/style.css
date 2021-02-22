@@ -88,7 +88,7 @@ aside#sidebar a.qlink span.qlink-icon .fas{color:white;transition:linear all .2s
 aside#sidebar a.qlink:hover span.qlink-icon .fas{transform:scale(1.2);}
 aside#sidebar a.qlink span.qlink-label{padding:0 10px;}
 
-aside#sidebar a#latest{position:relative;height:300px;overflow:hidden;background:url(//solrainha.github.io/suiomi/library/images/latest.jpg);background-size:cover;background-position:center;display:block;}
+aside#sidebar a#latest{position:relative;height:300px;overflow:hidden;background:url(//solrainha.github.io/suiomi/articles/learn-to-code.jpg);background-size:cover;background-position:center;display:block;}
 aside#sidebar a#latest .lat-container:before{content:'';bottom:0;width:100%;height:50%;position:absolute;left:0;background-image:linear-gradient(transparent, black);}
 aside#sidebar a#latest .lat-container .lat-details{position:absolute;width:100%;bottom:0;padding:50px;color:white;}
 aside#sidebar a#latest .lat-container .lat-details .lat-title{font-weight:700;font-size:1.4rem;margin-bottom:5px;letter-spacing:.5px;}
