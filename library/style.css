@@ -152,7 +152,7 @@ header:before{content:'';position:fixed;background:rgba(0,0,0,.5);width:100vw;to
 header .header-intro{position:fixed;bottom:670px;left:5%;background:#ffd522;padding:5px 10px;color:white;font-weight:700;text-transform:uppercase;letter-spacing:6px;border-radius:4px;}
 header .header-title{position:fixed;color:white;font-weight:700;bottom:310px;left:5%;font-size:5rem;text-transform:uppercase;letter-spacing:4px;max-width:0;}
 header .header-table{position:fixed;bottom:12%;left:5%;color:white;}
-header .header-table .table-row .table-cell{display:inline-block;width:30%;margin-right:5%;}
+header .header-table .table-row .table-cell{display:inline-block;width:35%;margin-right:5%;}
 header .header-table .table-row .table-cell .tc-title,header .header-table .table-row .table-cell .tc-title a{text-transform:uppercase;font-weight:700;letter-spacing:1px;margin-bottom:20px;height:20px;line-height:20px;color:white;font-size:1.3rem;}
 header .header-table .table-row .table-cell .tc-title span.tct-icon{background:#ffd522;height:30px;width:30px;display:inline-block;line-height:30px;text-align:center;margin-right:10px;border-radius:4px;}
 header .header-table .table-row .table-cell .tc-title span.tct-icon .fas{color:white;}
