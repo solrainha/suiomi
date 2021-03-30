@@ -62,6 +62,7 @@ aside#sidebar #font #font-details .font-desc{font-size:.9rem;color:#999;}
 
 aside#sidebar #project.cc{background:url(//solrainha.github.io/suiomi/images/cc.jpg);}
 aside#sidebar #project.pw{background:url(//solrainha.github.io/suiomi/images/pw.jpg);}
+aside#sidebar #project.cp{background:url(//solrainha.github.io/suiomi/images/cp.png);}
 aside#sidebar #project{position:relative;display:block;margin-bottom:20px;height:200px;background-size:100%!important;background-position:center!important;transition:linear all .2s;background-repeat:no-repeat!important;}
 aside#sidebar #project:hover{background-size:120%!important;}
 aside#sidebar #project:before{content:'';position:absolute;height:100%;width:100%;background:rgba(0,0,0,.3);z-index:2;}
